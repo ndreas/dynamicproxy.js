@@ -2,5 +2,6 @@
     "name": "dynamicproxy",
     "version": "0.0.1",
     "dependencies": {
+        "optimist": "0.3.x"
     }
 }
